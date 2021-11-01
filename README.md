@@ -10,6 +10,7 @@ ex) [커플릴스](https://www.youtube.com/watch?v=NCpyLK1XIOY)
 
 - 사용자 인증 (구글 로그인)
 - Firebase Database
+- 테스트 코드 (엄청 필요하진 않음)
 
 ### 코드 짜기 시작하면서 꼭 알아야 할 것
 
