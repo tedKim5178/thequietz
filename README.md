@@ -8,7 +8,7 @@ ex) [커플릴스](https://www.youtube.com/watch?v=NCpyLK1XIOY)
 
 ### 생각해볼 기술
 
-- 사용자 인증 (구글, 카카오 로그인)
+- 사용자 인증 (구글 로그인)
 - Firebase Database
 
 ### 코드 짜기 시작하면서 꼭 알아야 할 것
